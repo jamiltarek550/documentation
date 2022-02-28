@@ -1,4 +1,0 @@
-sphinx
-rst2pdf
-pillow
-sphinx-rtd-theme
